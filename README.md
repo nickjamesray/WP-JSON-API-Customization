@@ -1,4 +1,4 @@
-wp-json-api-custom
+Customizing the JSON API plugin for WordPress
 ==================
 
 Example files for customizing the JSON API plugin for WordPress. Code should go in active theme folder. Note that if you change the filename from dmskills.php to anything else, you'll need to reflect that in the rest of the code and instructions.
